@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository!🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data angineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
 ---
 
@@ -10,7 +10,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ### Building the Data Warehouse (Data Engineering) 
 
 #### Objective 
-Develop a modern data warehouse usign SQL Server to consolidate sales data, enabling analytical reporting and informed decidion-making.
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decidion-making.
 
 #### Specifications 
 - **Data Sources** : Import data from two source systems (ERP and CRM) provided as CSV files.
@@ -21,10 +21,10 @@ Develop a modern data warehouse usign SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytucs & Reporting (Data Analytics)
+### BI: Analytics & Reporting (Data Analytics)
 
 ### Objective
-Develop SQL-based analytics to deliver detailed insights into  :
+Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behaviour**
 - **Product Performance**
 - **Sales Trends**
@@ -35,5 +35,5 @@ These insights empower stakeholders with key business matrices, enabling strateg
 
 ## 🛡️ License 
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify and shre this project with proper attribution .
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify and share this project with proper attribution.
 
